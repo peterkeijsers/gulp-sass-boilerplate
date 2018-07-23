@@ -17,7 +17,7 @@ This repository contains a simple example for compiling scss to css using the no
     ```
     git clone https://experius@bitbucket.org/experius/gulp-sass-demo.git
     ```
-4. command:
+4. Change 'experius' to own username:
     ```
-    git clone https://experius@bitbucket.org/experius/gulp-sass-demo.git
+    git clone https://USERNAME@bitbucket.org/experius/gulp-sass-demo.git
     ```
